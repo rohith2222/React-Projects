@@ -63,8 +63,3 @@ Welcome to my collection of React projects! Below are some cool mini-projects th
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to replace the placeholder links and screenshots with actual links for a fully complete README.
-
-Let me know if you'd like further customization! 🚀
