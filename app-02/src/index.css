@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.header-container{
+  background-color: #F55A5A;
+  padding: 10px;
+  display: flex; 
+  align-items: center; 
+  justify-content: center; 
+  text-align: center;
+}
+
+.header-container > img{
+  width: 30px;
+}
+
+.header-container > span{
+  color: white;
+  margin-left: 10px;
+}
+
+.entry-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+  margin-bottom: 36px;
+}
+
+.entry-container>.main-image{
+  width: 180px;
+  height: 230px;
+  border-radius: 10px;
+}
+
+.detail-container{
+  margin-left: 20px;
+}
+
+.detail-container>h1{
+  margin-top: 0;
+}
+
+.upper-layer{
+  display: flex;
+  gap: 5px;
+  align-items: center;
+}
+
+.marker-image{
+  width: 10px;
+}

@@ -1,0 +1,85 @@
+main{
+    padding: 30px 30px 10px;
+}
+
+.form-add{
+    font-family: "Inter",sans-serif;
+    display: flex;
+    justify-content: center;
+    gap: 12px;
+    height: 40px;
+}
+
+.form-add>input{
+    width: 400px;
+    border: 1px solid rgb(172, 171, 171);
+    border-radius: 10px;
+    padding: 10px;
+    min-width: 150px;
+    max-width: 400px;
+}
+
+.form-add>button{
+    font-family: "Inter",sans-serif;
+    width: 200px;
+    background-color: black;
+    color: white;
+    font-size: 1rem;
+    border-radius: 10px;
+}
+
+.heading{
+    font-family: "Inter",sans-serif;
+    font-weight: 600;
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-bottom: 30px;
+}
+
+ul>li{
+    font-family: "Inter",sans-serif;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+.ready-recipe{
+    background-color: rgb(240, 239, 235);
+    border: 1px solid rgb(240, 239, 235);
+    border-radius: 10px;
+    padding: 20px;
+    display: flex;
+    align-items: center; /* Align items vertically */
+    gap: 1rem; /* Adds space between text and button */
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.text-container>h1{
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 1.5rem;
+    font-weight: 500;
+}
+
+.text-container>p{
+    margin-top: 0;
+    margin-left: 20px;
+    font-size: 1rem;
+    font-weight: 300;
+}
+
+.ready-recipe>button{
+    font-family: "Inter",sans-serif;
+    color: white;
+    background-color: #D17557;
+    margin-left: 80px;
+    font-size: 1rem;
+    border: 1px solid #D17557;
+    border-radius: 10px;
+    width: 140px;
+    gap: 12px;
+    height: 40px;
+}

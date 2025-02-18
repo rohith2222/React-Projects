@@ -1,0 +1,47 @@
+body {
+  margin: 0;
+  background-image: url('/src/assets/react-bg.jpeg');
+  background-size: 60rem;
+  background-repeat: no-repeat;
+  font-family: Inter;
+}
+
+.navbar{
+  background-color: #1a1a1a;
+  padding: 20px;
+  display: flex;
+  box-shadow: 0px 0px 20px 10px;
+}
+
+.navbar > img{
+  width: 35px;
+  height: 35px;
+  margin-block-start: 0;
+}
+
+.navbar > span{
+  font-size: 1.75rem;
+  color: #57C4DC;
+  margin-left: 10px;
+  font-weight: 700;
+}
+
+.main-container{
+  color: white;
+  padding: 60px 30px;
+}
+
+.main-container h1{
+  font-weight: 700;
+}
+
+.main-container li{
+  font-weight: 400;
+  margin-bottom: 10px;
+}
+
+.main-container li::marker{
+  color: #57C4DC;
+  font-size: 30px;
+}
+
