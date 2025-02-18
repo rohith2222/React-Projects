@@ -1,7 +1,3 @@
-Here’s a styled **README** for your React projects that looks clean and professional:
-
----
-
 # React Projects 🚀
 
 Welcome to my collection of React projects! Below are some cool mini-projects that showcase different functionalities and UI concepts.
