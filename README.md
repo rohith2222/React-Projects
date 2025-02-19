@@ -12,7 +12,7 @@ Welcome to my collection of React projects! Below are some cool mini-projects th
 2. **[App-02: Travel Journal](https://travel-journal-gamma-two.vercel.app/)**  
    A journal app where users can log and display their travel experiences.
 
-3. **[App-03: Recipes from AI](#)**  
+3. **[App-03: Recipes from AI](https://chef-ai-three.vercel.app/)**  
    A fun project that generates recipes using AI technology.
 
 4. **[App-04: Meme Generator](#)**  
