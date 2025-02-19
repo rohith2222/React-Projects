@@ -1,3 +1,4 @@
+import markerImage from '../assets/marker.png'
 
 function Entry(props){
     const entry = props.place;
@@ -6,7 +7,7 @@ function Entry(props){
             <img src={entry.img.src} alt={entry.img.alt} className="main-image"/>
             <div className="detail-container">
                 <span className="upper-layer">
-                    <img src="./src/assets/marker.png" alt="Marker" className="marker-image"/>
+                    <img src={markerImage} alt="Marker" className="marker-image"/>
                     <p>{entry.country}</p>
                     <a href={entry.googleMapsLink} target="_blank" rel="noopener noreferrer">View on Google Maps</a>
                 </span>
