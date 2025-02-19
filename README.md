@@ -6,7 +6,7 @@ Welcome to my collection of React projects! Below are some cool mini-projects th
 
 ### 📦 Projects
 
-1. **[App-01: Static Page](#)**  
+1. **[App-01: Static Page](https://react-projects-6x64.vercel.app/)**  
    A simple, static webpage demonstrating HTML, CSS, and React integration.
 
 2. **[App-02: Travel Journal](#)**  
