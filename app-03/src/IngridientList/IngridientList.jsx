@@ -5,7 +5,7 @@ export default function IngridientList(props){
     })
 
     return <section>
-        <h1 className="heading">Ingridients on hand:</h1>
+        <h1 className="heading">Ingridients on hand(Atleast 4 needed):</h1>
         <ul>
             {ingridientElement}
         </ul>
