@@ -1,8 +1,9 @@
 body {
   margin: 0;
   background-image: url('/src/assets/react-bg.jpeg');
-  background-size: 60rem;
+  background-position: center;
   background-repeat: no-repeat;
+  background-size: cover;
   font-family: Inter;
 }
 
