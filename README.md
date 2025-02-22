@@ -21,6 +21,9 @@ Welcome to my collection of React projects! Below are some cool mini-projects th
 5. **[App-05: Tenzies Game](https://react-projects-sandy-kappa.vercel.app/)**  
    A dice-rolling game where you try to roll the same number on all dice in the least moves possible.
 
+6. **[App-06: Hangman Game](https://hangman-kappa-one.vercel.app/)**  
+   A dice-rolling game where you try to roll the same number on all dice in the least moves possible.
+
 ---
 
 ### 🛠️ Technologies Used
